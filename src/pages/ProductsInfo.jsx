@@ -25,7 +25,7 @@ export default function ProductsInfo(){
 
     useEffect(() => {
         // Чтение файла products.json
-        fetch('https://raw.githubusercontent.com/Sttrano-Alexey/bd/main/products.json')
+        fetch('https://raw.githubusercontent.com/Sttrano-Alexey/bd/main/products.json ')
             .then((response) => response.json())
             .then((data) => {
                 const product = data.find((item) => item.id === parseInt(productId)); // Парсим productId к числу, если необходимо
