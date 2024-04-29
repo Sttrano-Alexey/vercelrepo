@@ -9,7 +9,7 @@ export default function Cart(){
      const fetchProductById = async (productId) => {
         try {
             // Загрузка данных из файла products.json
-            const response = await fetch('../src/DATA/products.json');
+            const response = await fetch('https://raw.githubusercontent.com/Sttrano-Alexey/bd/main/products.json');
             if (!response.ok) {
                 throw new Error('Не удалось загрузить продукты');
             }
