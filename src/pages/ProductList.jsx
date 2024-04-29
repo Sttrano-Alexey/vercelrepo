@@ -18,7 +18,7 @@ const ProductList = () => {
   const [selectedCategories, setSelectedCategories] = useState([]); // выбранные категории
 
   useEffect(() => {
-    fetch("../../src/DATA/products.json")
+    fetch("DATA/products.json")
       .then((res) => res.json())
       .then((products) => {
         // Получаем уникальные категории и бренды
