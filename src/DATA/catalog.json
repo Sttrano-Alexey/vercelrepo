@@ -1,0 +1,933 @@
+[
+    {
+        "id": 1,
+        "name": "Компьютеры, Ноутбуки, Планшеты",
+        "subcategories": [
+            {
+                "id": 1,
+                "name": "Планшеты",
+                "brands": [
+                    {"id": 1, "name": "Apple"},
+                    {"id": 2, "name": "Asus"},
+                    {"id": 3, "name": "Acer"},
+                    {"id": 4, "name": "HP"},
+                    {"id": 5, "name": "Lenovo"}
+                ]
+            },
+            {
+                "name": "Компьютеры, Неттопы",
+                "brands": [
+                    {"id": 1, "name": "Apple"},
+                    {"id": 2, "name": "Asus"},
+                    {"id": 3, "name": "Acer"},
+                    {"id": 4, "name": "HP"},
+                    {"id": 5, "name": "Lenovo"}
+                ]
+            },
+            {
+                "name": "Аксессуары к ноутбукам",
+                "brands": [
+                    {"id": 1, "name": "Logitech"},
+                    {"id": 2, "name": "Asus"},
+                    {"id": 3, "name": "Lenovo"},
+                    {"id": 4, "name": "Corsair"},
+                    {"id": 5, "name": "Razer"}
+                ]
+            },
+            {
+                "name": "Моноблоки",
+                "brands": [
+                    {"id": 1, "name": "Asus"},
+                    {"id": 2, "name": "HP"},
+                    {"id": 3, "name": "Lenovo"},
+                    {"id": 4, "name": "Dell"},
+                    {"id": 5, "name": "Gigabyte"}
+                ]
+            },
+            {
+                "name": "Ноутбуки",
+                "brands": [
+                    {"id": 1, "name": "Apple"},
+                    {"id": 2, "name": "Asus"},
+                    {"id": 3, "name": "Acer"},
+                    {"id": 4, "name": "HP"},
+                    {"id": 5, "name": "Lenovo"}
+                ]
+            },
+            {
+                "name": "Аксессуары к планшетам",
+                "brands": [
+                    {"id": 1, "name": "Samsung"},
+                    {"id": 2, "name": "Apple"},
+                    {"id": 3, "name": "Logitech"},
+                    {"id": 4, "name": "Asus"},
+                    {"id": 5, "name": "Lenovo"}
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Серверы и хранение",
+        "subcategories": [
+            {
+                "name": "Мощные серверы",
+                "brands": [
+                    {"id": 1, "name": "Dell"},
+                    {"id": 2, "name": "HP"},
+                    {"id": 3, "name": "IBM"},
+                    {"id": 4, "name": "Cisco"},
+                    {"id": 5, "name": "Huawei"}
+                ]
+            },
+            {
+                "name": "Недорогие серверы",
+                "brands": [
+                    {"id": 1, "name": "Dell"},
+                    {"id": 2, "name": "HP"},
+                    {"id": 3, "name": "Lenovo"},
+                    {"id": 4, "name": "HPE"},
+                    {"id": 5, "name": "Supermicro"}
+                ]
+            },
+            {
+                "name": "Компактные серверы",
+                "brands": [
+                    {"id": 1, "name": "Raspberry Pi"},
+                    {"id": 2, "name": "Cubietech"},
+                    {"id": 3, "name": "Odroid"},
+                    {"id": 4, "name": "UCS"},
+                    {"id": 5, "name": "HPE"}
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Портативная электроника",
+        "subcategories": [
+            {
+                "name": "Процессоры",
+                "brands": [
+                    {"id": 1, "name": "Intel"},
+                    {"id": 2, "name": "AMD"},
+                    {"id": 3, "name": "ARM"},
+                    {"id": 4, "name": "Qualcomm"},
+                    {"id": 5, "name": "NVIDIA"}
+                ]
+            },
+            {
+                "name": "Видеокарты",
+                "brands": [
+                    {"id": 1, "name": "NVIDIA"},
+                    {"id": 2, "name": "AMD"},
+                    {"id": 3, "name": "Intel"},
+                    {"id": 4, "name": "ASUS"},
+                    {"id": 5, "name": "MSI"}
+                ]
+            },
+            {
+                "name": "Память",
+                "brands": [
+                    {"id": 1, "name": "Crucial"},
+                    {"id": 2, "name": "Kingston"},
+                    {"id": 3, "name": "Transcend"},
+                    {"id": 4, "name": "Samsung"},
+                    {"id": 5, "name": "G.Skill"}
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Оргтехника, переферия",
+        "subcategories": [
+            {
+                "name": "Процессоры",
+                "brands": [
+                    {"id": 1, "name": "Intel"},
+                    {"id": 2, "name": "AMD"},
+                    {"id": 3, "name": "ARM"},
+                    {"id": 4, "name": "Qualcomm"},
+                    {"id": 5, "name": "NVIDIA"}
+                ]
+            },
+            {
+                "name": "Видеокарты",
+                "brands": [
+                    {"id": 1, "name": "NVIDIA"},
+                    {"id": 2, "name": "AMD"},
+                    {"id": 3, "name": "Intel"},
+                    {"id": 4, "name": "ASUS"},
+                    {"id": 5, "name": "MSI"}
+                ]
+            },
+            {
+                "name": "Память",
+                "brands": [
+                    {"id": 1, "name": "Crucial"},
+                    {"id": 2, "name": "Kingston"},
+                    {"id": 3, "name": "Transcend"},
+                    {"id": 4, "name": "Samsung"},
+                    {"id": 5, "name": "G.Skill"}
+                ]
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Расходные материалы",
+        "subcategories": [
+            {
+                "name": "Процессоры",
+                "brands": [
+                    {"id": 1, "name": "Intel"},
+                    {"id": 2, "name": "AMD"},
+                    {"id": 3, "name": "ARM"},
+                    {"id": 4, "name": "Qualcomm"},
+                    {"id": 5, "name": "NVIDIA"}
+                ]
+            },
+            {
+                "name": "Видеокарты",
+                "brands": [
+                    {"id": 1, "name": "NVIDIA"},
+                    {"id": 2, "name": "AMD"},
+                    {"id": 3, "name": "Intel"},
+                    {"id": 4, "name": "ASUS"},
+                    {"id": 5, "name": "MSI"}
+                ]
+            },
+            {
+                "name": "Память",
+                "brands": [
+                    {"id": 1, "name": "Crucial"},
+                    {"id": 2, "name": "Kingston"},
+                    {"id": 3, "name": "Transcend"},
+                    {"id": 4, "name": "Samsung"},
+                    {"id": 5, "name": "G.Skill"}
+                ]
+            }
+        ]
+    },
+    {
+      "id": 6,
+      "name": "Комплектующие",
+      "subcategories": [
+        {
+          "name": "Процессоры",
+          "brands": [
+            {"id": 1, "name": "Intel"},
+            {"id": 2, "name": "AMD"},
+            {"id": 3, "name": "ARM"},
+            {"id": 4, "name": "Qualcomm"},
+            {"id": 5, "name": "NVIDIA"}
+          ]
+        },
+        {
+          "name": "Видеокарты",
+          "brands": [
+            {"id": 1, "name": "NVIDIA"},
+            {"id": 2, "name": "AMD"},
+            {"id": 3, "name": "Intel"},
+            {"id": 4, "name": "ASUS"},
+            {"id": 5, "name": "MSI"}
+          ]
+        },
+        {
+          "name": "Память",
+          "brands": [
+            {"id": 1, "name": "Crucial"},
+            {"id": 2, "name": "Kingston"},
+            {"id": 3, "name": "Transcend"},
+            {"id": 4, "name": "Samsung"},
+            {"id": 5, "name": "G.Skill"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Носители информации",
+      "subcategories": [
+        {
+          "name": "Процессоры",
+          "brands": [
+            {"id": 1, "name": "Intel"},
+            {"id": 2, "name": "AMD"},
+            {"id": 3, "name": "ARM"},
+            {"id": 4, "name": "Qualcomm"},
+            {"id": 5, "name": "NVIDIA"}
+          ]
+        },
+        {
+          "name": "Видеокарты",
+          "brands": [
+            {"id": 1, "name": "NVIDIA"},
+            {"id": 2, "name": "AMD"},
+            {"id": 3, "name": "Intel"},
+            {"id": 4, "name": "ASUS"},
+            {"id": 5, "name": "MSI"}
+          ]
+        },
+        {
+          "name": "Память",
+          "brands": [
+            {"id": 1, "name": "Crucial"},
+            {"id": 2, "name": "Kingston"},
+            {"id": 3, "name": "Transcend"},
+            {"id": 4, "name": "Samsung"},
+            {"id": 5, "name": "G.Skill"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Сетевое оборудование",
+      "subcategories": [
+        {
+          "name": "Процессоры",
+          "brands": [
+            {"id": 1, "name": "Intel"},
+            {"id": 2, "name": "AMD"},
+            {"id": 3, "name": "ARM"},
+            {"id": 4, "name": "Qualcomm"},
+            {"id": 5, "name": "NVIDIA"}
+          ]
+        },
+        {
+          "name": "Видеокарты",
+          "brands": [
+            {"id": 1, "name": "NVIDIA"},
+            {"id": 2, "name": "AMD"},
+            {"id": 3, "name": "Intel"},
+            {"id": 4, "name": "ASUS"},
+            {"id": 5, "name": "MSI"}
+          ]
+        },
+        {
+          "name": "Память",
+          "brands": [
+            {"id": 1, "name": "Crucial"},
+            {"id": 2, "name": "Kingston"},
+            {"id": 3, "name": "Transcend"},
+            {"id": 4, "name": "Samsung"},
+            {"id": 5, "name": "G.Skill"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Видеонаблюдение, безопасность",
+      "subcategories": [
+        {
+          "name": "Процессоры",
+          "brands": [
+            {"id": 1, "name": "Intel"},
+            {"id": 2, "name": "AMD"},
+            {"id": 3, "name": "ARM"},
+            {"id": 4, "name": "Qualcomm"},
+            {"id": 5, "name": "NVIDIA"}
+          ]
+        },
+        {
+          "name": "Видеокарты",
+          "brands": [
+            {"id": 1, "name": "NVIDIA"},
+            {"id": 2, "name": "AMD"},
+            {"id": 3, "name": "Intel"},
+            {"id": 4, "name": "ASUS"},
+            {"id": 5, "name": "MSI"}
+          ]
+        },
+        {
+          "name": "Память",
+          "brands": [
+            {"id": 1, "name": "Crucial"},
+            {"id": 2, "name": "Kingston"},
+            {"id": 3, "name": "Transcend"},
+            {"id": 4, "name": "Samsung"},
+            {"id": 5, "name": "G.Skill"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Телевизоры, фото, видео",
+      "subcategories": [
+        {
+          "name": "Процессоры",
+          "brands": [
+            {"id": 1, "name": "Intel"},
+            {"id": 2, "name": "AMD"},
+            {"id": 3, "name": "ARM"},
+            {"id": 4, "name": "Qualcomm"},
+            {"id": 5, "name": "NVIDIA"}
+          ]
+        },
+        {
+          "name": "Видеокарты",
+          "brands": [
+            {"id": 1, "name": "NVIDIA"},
+            {"id": 2, "name": "AMD"},
+            {"id": 3, "name": "Intel"},
+            {"id": 4, "name": "ASUS"},
+            {"id": 5, "name": "MSI"}
+          ]
+        },
+        {
+          "name": "Память",
+          "brands": [
+            {"id": 1, "name": "Crucial"},
+            {"id": 2, "name": "Kingston"},
+            {"id": 3, "name": "Transcend"},
+            {"id": 4, "name": "Samsung"},
+            {"id": 5, "name": "G.Skill"}
+          ]
+        }
+      ]
+    },
+    {
+        "id": 11,
+        "name": "Web-камеры, наушники, колонки",
+        "subcategories": [
+            {
+                "name": "Процессоры",
+                "brands": [
+                    {"id": 1, "name": "Intel"},
+                    {"id": 2, "name": "AMD"},
+                    {"id": 3, "name": "ARM"},
+                    {"id": 4, "name": "Qualcomm"},
+                    {"id": 5, "name": "NVIDIA"}
+                ]
+            },
+            {
+                "name": "Видеокарты",
+                "brands": [
+                    {"id": 1, "name": "NVIDIA"},
+                    {"id": 2, "name": "AMD"},
+                    {"id": 3, "name": "Intel"},
+                    {"id": 4, "name": "ASUS"},
+                    {"id": 5, "name": "MSI"}
+                ]
+            },
+            {
+                "name": "Память",
+                "brands": [
+                    {"id": 1, "name": "Crucial"},
+                    {"id": 2, "name": "Kingston"},
+                    {"id": 3, "name": "Transcend"},
+                    {"id": 4, "name": "Samsung"},
+                    {"id": 5, "name": "G.Skill"}
+                ]
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Программное обеспечение",
+        "subcategories": [
+            {
+                "name": "Процессоры",
+                "brands": [
+                    {"id": 1, "name": "Intel"},
+                    {"id": 2, "name": "AMD"},
+                    {"id": 3, "name": "ARM"},
+                    {"id": 4, "name": "Qualcomm"},
+                    {"id": 5, "name": "NVIDIA"}
+                ]
+            },
+            {
+                "name": "Видеокарты",
+                "brands": [
+                    {"id": 1, "name": "NVIDIA"},
+                    {"id": 2, "name": "AMD"},
+                    {"id": 3, "name": "Intel"},
+                    {"id": 4, "name": "ASUS"},
+                    {"id": 5, "name": "MSI"}
+                ]
+            },
+            {
+                "name": "Память",
+                "brands": [
+                    {"id": 1, "name": "Crucial"},
+                    {"id": 2, "name": "Kingston"},
+                    {"id": 3, "name": "Transcend"},
+                    {"id": 4, "name": "Samsung"},
+                    {"id": 5, "name": "G.Skill"}
+                ]
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Клавиатуры, мыши, геймпады",
+        "subcategories": [
+            {
+                "name": "Процессоры",
+                "brands": [
+                    {"id": 1, "name": "Intel"},
+                    {"id": 2, "name": "AMD"},
+                    {"id": 3, "name": "ARM"},
+                    {"id": 4, "name": "Qualcomm"},
+                    {"id": 5, "name": "NVIDIA"}
+                ]
+            },
+            {
+                "name": "Видеокарты",
+                "brands": [
+                    {"id": 1, "name": "NVIDIA"},
+                    {"id": 2, "name": "AMD"},
+                    {"id": 3, "name": "Intel"},
+                    {"id": 4, "name": "ASUS"},
+                    {"id": 5, "name": "MSI"}
+                ]
+            },
+            {
+                "name": "Память",
+                "brands": [
+                    {"id": 1, "name": "Crucial"},
+                    {"id": 2, "name": "Kingston"},
+                    {"id": 3, "name": "Transcend"},
+                    {"id": 4, "name": "Samsung"},
+                    {"id": 5, "name": "G.Skill"}
+                ]
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Аксессуары",
+        "subcategories": [
+            {
+                "name": "Процессоры",
+                "brands": [
+                    {"id": 1, "name": "Intel"},
+                    {"id": 2, "name": "AMD"},
+                    {"id": 3, "name": "ARM"},
+                    {"id": 4, "name": "Qualcomm"},
+                    {"id": 5, "name": "NVIDIA"}
+                ]
+            },
+            {
+                "name": "Видеокарты",
+                "brands": [
+                    {"id": 1, "name": "NVIDIA"},
+                    {"id": 2, "name": "AMD"},
+                    {"id": 3, "name": "Intel"},
+                    {"id": 4, "name": "ASUS"},
+                    {"id": 5, "name": "MSI"}
+                ]
+            },
+            {
+                "name": "Память",
+                "brands": [
+                    {"id": 1, "name": "Crucial"},
+                    {"id": 2, "name": "Kingston"},
+                    {"id": 3, "name": "Transcend"},
+                    {"id": 4, "name": "Samsung"},
+                    {"id": 5, "name": "G.Skill"}
+                ]
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Бытовая техника",
+        "subcategories": [
+            {
+                "name": "Процессоры",
+                "brands": [
+                    {"id": 1, "name": "Intel"},
+                    {"id": 2, "name": "AMD"},
+                    {"id": 3, "name": "ARM"},
+                    {"id": 4, "name": "Qualcomm"},
+                    {"id": 5, "name": "NVIDIA"}
+                ]
+            },
+            {
+                "name": "Видеокарты",
+                "brands": [
+                    {"id": 1, "name": "NVIDIA"},
+                    {"id": 2, "name": "AMD"},
+                    {"id": 3, "name": "Intel"},
+                    {"id": 4, "name": "ASUS"},
+                    {"id": 5, "name": "MSI"}
+                ]
+            },
+            {
+                "name": "Память",
+                "brands": [
+                    {"id": 1, "name": "Crucial"},
+                    {"id": 2, "name": "Kingston"},
+                    {"id": 3, "name": "Transcend"},
+                    {"id": 4, "name": "Samsung"},
+                    {"id": 5, "name": "G.Skill"}
+                ]
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Офисная мебель, сейфы",
+        "subcategories": [
+            {
+                "name": "Процессоры",
+                "brands": [
+                    {"id": 1, "name": "Intel"},
+                    {"id": 2, "name": "AMD"},
+                    {"id": 3, "name": "ARM"},
+                    {"id": 4, "name": "Qualcomm"},
+                    {"id": 5, "name": "NVIDIA"}
+                ]
+            },
+            {
+                "name": "Видеокарты",
+                "brands": [
+                    {"id": 1, "name": "NVIDIA"},
+                    {"id": 2, "name": "AMD"},
+                    {"id": 3, "name": "Intel"},
+                    {"id": 4, "name": "ASUS"},
+                    {"id": 5, "name": "MSI"}
+                ]
+            },
+            {
+                "name": "Память",
+                "brands": [
+                    {"id": 1, "name": "Crucial"},
+                    {"id": 2, "name": "Kingston"},
+                    {"id": 3, "name": "Transcend"},
+                    {"id": 4, "name": "Samsung"},
+                    {"id": 5, "name": "G.Skill"}
+                ]
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Электроинструмент",
+        "subcategories": [
+            {
+                "name": "Процессоры",
+                "brands": [
+                    {"id": 1, "name": "Intel"},
+                    {"id": 2, "name": "AMD"},
+                    {"id": 3, "name": "ARM"},
+                    {"id": 4, "name": "Qualcomm"},
+                    {"id": 5, "name": "NVIDIA"}
+                ]
+            },
+            {
+                "name": "Видеокарты",
+                "brands": [
+                    {"id": 1, "name": "NVIDIA"},
+                    {"id": 2, "name": "AMD"},
+                    {"id": 3, "name": "Intel"},
+                    {"id": 4, "name": "ASUS"},
+                    {"id": 5, "name": "MSI"}
+                ]
+            },
+            {
+                "name": "Память",
+                "brands": [
+                    {"id": 1, "name": "Crucial"},
+                    {"id": 2, "name": "Kingston"},
+                    {"id": 3, "name": "Transcend"},
+                    {"id": 4, "name": "Samsung"},
+                    {"id": 5, "name": "G.Skill"}
+                ]
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Садовая техника",
+        "subcategories": [
+            {
+                "name": "Процессоры",
+                "brands": [
+                    {"id": 1, "name": "Intel"},
+                    {"id": 2, "name": "AMD"},
+                    {"id": 3, "name": "ARM"},
+                    {"id": 4, "name": "Qualcomm"},
+                    {"id": 5, "name": "NVIDIA"}
+                ]
+            },
+            {
+                "name": "Видеокарты",
+                "brands": [
+                    {"id": 1, "name": "NVIDIA"},
+                    {"id": 2, "name": "AMD"},
+                    {"id": 3, "name": "Intel"},
+                    {"id": 4, "name": "ASUS"},
+                    {"id": 5, "name": "MSI"}
+                ]
+            },
+            {
+                "name": "Память",
+                "brands": [
+                    {"id": 1, "name": "Crucial"},
+                    {"id": 2, "name": "Kingston"},
+                    {"id": 3, "name": "Transcend"},
+                    {"id": 4, "name": "Samsung"},
+                    {"id": 5, "name": "G.Skill"}
+                ]
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Расходники для инструмента",
+        "subcategories": [
+            {
+                "name": "Процессоры",
+                "brands": [
+                    {"id": 1, "name": "Intel"},
+                    {"id": 2, "name": "AMD"},
+                    {"id": 3, "name": "ARM"},
+                    {"id": 4, "name": "Qualcomm"},
+                    {"id": 5, "name": "NVIDIA"}
+                ]
+            },
+            {
+                "name": "Видеокарты",
+                "brands": [
+                    {"id": 1, "name": "NVIDIA"},
+                    {"id": 2, "name": "AMD"},
+                    {"id": 3, "name": "Intel"},
+                    {"id": 4, "name": "ASUS"},
+                    {"id": 5, "name": "MSI"}
+                ]
+            },
+            {
+                "name": "Память",
+                "brands": [
+                    {"id": 1, "name": "Crucial"},
+                    {"id": 2, "name": "Kingston"},
+                    {"id": 3, "name": "Transcend"},
+                    {"id": 4, "name": "Samsung"},
+                    {"id": 5, "name": "G.Skill"}
+                ]
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Ручной инструмент",
+        "subcategories": [
+            {
+                "name": "Процессоры",
+                "brands": [
+                    {"id": 1, "name": "Intel"},
+                    {"id": 2, "name": "AMD"},
+                    {"id": 3, "name": "ARM"},
+                    {"id": 4, "name": "Qualcomm"},
+                    {"id": 5, "name": "NVIDIA"}
+                ]
+            },
+            {
+                "name": "Видеокарты",
+                "brands": [
+                    {"id": 1, "name": "NVIDIA"},
+                    {"id": 2, "name": "AMD"},
+                    {"id": 3, "name": "Intel"},
+                    {"id": 4, "name": "ASUS"},
+                    {"id": 5, "name": "MSI"}
+                ]
+            },
+            {
+                "name": "Память",
+                "brands": [
+                    {"id": 1, "name": "Crucial"},
+                    {"id": 2, "name": "Kingston"},
+                    {"id": 3, "name": "Transcend"},
+                    {"id": 4, "name": "Samsung"},
+                    {"id": 5, "name": "G.Skill"}
+                ]
+            }
+        ]
+    },
+    {
+      "id": 21,
+      "name": "Силовая техника",
+      "subcategories": [
+        {
+          "name": "Процессоры",
+          "brands": [
+            {"id": 1, "name": "Intel"},
+            {"id": 2, "name": "AMD"},
+            {"id": 3, "name": "ARM"},
+            {"id": 4, "name": "Qualcomm"},
+            {"id": 5, "name": "NVIDIA"}
+          ]
+        },
+        {
+          "name": "Видеокарты",
+          "brands": [
+            {"id": 1, "name": "NVIDIA"},
+            {"id": 2, "name": "AMD"},
+            {"id": 3, "name": "Intel"},
+            {"id": 4, "name": "ASUS"},
+            {"id": 5, "name": "MSI"}
+          ]
+        },
+        {
+          "name": "Память",
+          "brands": [
+            {"id": 1, "name": "Crucial"},
+            {"id": 2, "name": "Kingston"},
+            {"id": 3, "name": "Transcend"},
+            {"id": 4, "name": "Samsung"},
+            {"id": 5, "name": "G.Skill"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Кабели, крепеж",
+      "subcategories": [
+        {
+          "name": "Процессоры",
+          "brands": [
+            {"id": 1, "name": "Intel"},
+            {"id": 2, "name": "AMD"},
+            {"id": 3, "name": "ARM"},
+            {"id": 4, "name": "Qualcomm"},
+            {"id": 5, "name": "NVIDIA"}
+          ]
+        },
+        {
+          "name": "Видеокарты",
+          "brands": [
+            {"id": 1, "name": "NVIDIA"},
+            {"id": 2, "name": "AMD"},
+            {"id": 3, "name": "Intel"},
+            {"id": 4, "name": "ASUS"},
+            {"id": 5, "name": "MSI"}
+          ]
+        },
+        {
+          "name": "Память",
+          "brands": [
+            {"id": 1, "name": "Crucial"},
+            {"id": 2, "name": "Kingston"},
+            {"id": 3, "name": "Transcend"},
+            {"id": 4, "name": "Samsung"},
+            {"id": 5, "name": "G.Skill"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Светотехника, батарейки",
+      "subcategories": [
+        {
+          "name": "Процессоры",
+          "brands": [
+            {"id": 1, "name": "Intel"},
+            {"id": 2, "name": "AMD"},
+            {"id": 3, "name": "ARM"},
+            {"id": 4, "name": "Qualcomm"},
+            {"id": 5, "name": "NVIDIA"}
+          ]
+        },
+        {
+          "name": "Видеокарты",
+          "brands": [
+            {"id": 1, "name": "NVIDIA"},
+            {"id": 2, "name": "AMD"},
+            {"id": 3, "name": "Intel"},
+            {"id": 4, "name": "ASUS"},
+            {"id": 5, "name": "MSI"}
+          ]
+        },
+        {
+          "name": "Память",
+          "brands": [
+            {"id": 1, "name": "Crucial"},
+            {"id": 2, "name": "Kingston"},
+            {"id": 3, "name": "Transcend"},
+            {"id": 4, "name": "Samsung"},
+            {"id": 5, "name": "G.Skill"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Электрооборудование",
+      "subcategories": [
+        {
+          "name": "Процессоры",
+          "brands": [
+            {"id": 1, "name": "Intel"},
+            {"id": 2, "name": "AMD"},
+            {"id": 3, "name": "ARM"},
+            {"id": 4, "name": "Qualcomm"},
+            {"id": 5, "name": "NVIDIA"}
+          ]
+        },
+        {
+          "name": "Видеокарты",
+          "brands": [
+            {"id": 1, "name": "NVIDIA"},
+            {"id": 2, "name": "AMD"},
+            {"id": 3, "name": "Intel"},
+            {"id": 4, "name": "ASUS"},
+            {"id": 5, "name": "MSI"}
+          ]
+        },
+        {
+          "name": "Память",
+          "brands": [
+            {"id": 1, "name": "Crucial"},
+            {"id": 2, "name": "Kingston"},
+            {"id": 3, "name": "Transcend"},
+            {"id": 4, "name": "Samsung"},
+            {"id": 5, "name": "G.Skill"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Розетки, выключатели, вилки",
+      "subcategories": [
+        {
+          "name": "Процессоры",
+          "brands": [
+            {"id": 1, "name": "Intel"},
+            {"id": 2, "name": "AMD"},
+            {"id": 3, "name": "ARM"},
+            {"id": 4, "name": "Qualcomm"},
+            {"id": 5, "name": "NVIDIA"}
+          ]
+        },
+        {
+          "name": "Видеокарты",
+          "brands": [
+            {"id": 1, "name": "NVIDIA"},
+            {"id": 2, "name": "AMD"},
+            {"id": 3, "name": "Intel"},
+            {"id": 4, "name": "ASUS"},
+            {"id": 5, "name": "MSI"}
+          ]
+        },
+        {
+          "name": "Память",
+          "brands": [
+            {"id": 1, "name": "Crucial"},
+            {"id": 2, "name": "Kingston"},
+            {"id": 3, "name": "Transcend"},
+            {"id": 4, "name": "Samsung"},
+            {"id": 5, "name": "G.Skill"}
+          ]
+        }
+      ]
+    }
+]

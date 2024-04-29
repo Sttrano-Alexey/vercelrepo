@@ -1,0 +1,284 @@
+[
+    {
+        "id": 1,
+        "title": "Digma Ноутбуки Mac mini 2023 1",
+        "article": "115654",
+        "price": "18 301",
+        "availability": false,
+        "img1": "../src/components/Images/Products/products-slide.jpg",
+        "img2": "../src/components/Images/Products/products-slide.jpg", 
+        "img3": "../src/components/Images/Products/products-slide.jpg",
+        "description": "1 [MNH73LL/A] silver M2 Pro 10C CPU 16C GPU/16GB/512GB SSD",
+        "characteristic": "1 Ноутбук С другой стороны постоянное информационно-пропагандистское обеспечение нашей деятельности представляет собой интересный эксперимент проверки систем массового участия. Разнообразный и богатый опыт рамки и место обучения кадров способствует подготовке и реализации направлений прогрессивного развития. Повседневная практика показывает, что постоянное информационно-пропагандистское",
+        "brand": "Digma",
+        "category": "Ноутбуки"
+      },
+    {
+        "id" : 2,
+        "title" : "Digma Планшеты Mac mini 2023 2",
+        "article": "215654",
+        "price": "3 302",
+        "availability": false,
+        "img1": "../src/components/Images/Products/products-slide.jpg",
+        "img2": "../src/components/Images/Products/products-slide.jpg",
+        "img3": "../src/components/Images/Products/products-slide.jpg",
+        "description": "2 [MNH73LL/A] silver M2 Pro 10C CPU 16C GPU/16GB/512GB SSD",
+        "characteristic" : "2 Планшеты С другой стороны постоянное информационно-пропагандистское обеспечение нашей деятельности представляет собой интересный эксперимент проверки систем массового участия. Разнообразный и богатый опыт рамки и место обучения кадров способствует подготовке и реализации направлений прогрессивного развития. Повседневная практика показывает, что постоянное информационно-пропагандистское",
+        "brand": "Digma",
+        "category": "Планшеты"
+
+    },
+    {
+        "id" : 3,
+        "title" : "Digma Планшеты Mac mini 2023 3",
+        "article": "315654",
+        "price": "26 303",
+        "availability": false,
+        "img1": "../src/components/Images/Products/products-slide.jpg",
+        "img2": "../src/components/Images/Products/products-slide.jpg",
+        "img3": "../src/components/Images/Products/products-slide.jpg",
+        "description": "3 [MNH73LL/A] silver M2 Pro 10C CPU 16C GPU/16GB/512GB SSD",
+        "characteristic" : "3 Планшеты С другой стороны постоянное информационно-пропагандистское обеспечение нашей деятельности представляет собой интересный эксперимент проверки систем массового участия. Разнообразный и богатый опыт рамки и место обучения кадров способствует подготовке и реализации направлений прогрессивного развития. Повседневная практика показывает, что постоянное информационно-пропагандистское",
+        "brand": "Digma",
+        "category": "Планшеты"
+
+    },
+    {
+        "id" : 4,
+        "title" : "Digma Планшеты Mac mini 2023 4",
+        "article": "415654",
+        "price": "213 304",
+        "availability": false,
+        "img1": "../src/components/Images/Products/products-slide.jpg",
+        "img2": "../src/components/Images/Products/products-slide.jpg",
+        "img3": "../src/components/Images/Products/products-slide.jpg",
+        "description": "4 [MNH73LL/A] silver M2 Pro 10C CPU 16C GPU/16GB/512GB SSD",
+        "characteristic" : "4 Планшеты С другой стороны постоянное информационно-пропагандистское обеспечение нашей деятельности представляет собой интересный эксперимент проверки систем массового участия. Разнообразный и богатый опыт рамки и место обучения кадров способствует подготовке и реализации направлений прогрессивного развития. Повседневная практика показывает, что постоянное информационно-пропагандистское",
+        "brand": "Digma",
+        "category": "Планшеты"
+
+    },
+    {
+        "id" : 5,
+        "title" : "Apple Планшеты Mac mini 2023 5",
+        "article": "515654",
+        "price": "3 305",
+        "availability": false,
+        "img1": "../src/components/Images/Products/products-slide.jpg",
+        "img2": "../src/components/Images/Products/products-slide.jpg",
+        "img3": "../src/components/Images/Products/products-slide.jpg",
+        "description": "5 [MNH73LL/A] silver M2 Pro 10C CPU 16C GPU/16GB/512GB SSD",
+        "characteristic" : "5 Планшеты С другой стороны постоянное информационно-пропагандистское обеспечение нашей деятельности представляет собой интересный эксперимент проверки систем массового участия. Разнообразный и богатый опыт рамки и место обучения кадров способствует подготовке и реализации направлений прогрессивного развития. Повседневная практика показывает, что постоянное информационно-пропагандистское",
+        "brand": "Apple",
+        "category": "Планшеты"
+
+    },
+    {
+        "id" : 6,
+        "title" : "Apple Планшеты Mac mini 2023 6",
+        "article": "615654",
+        "price": "1 306",
+        "availability": false,
+        "img1": "../src/components/Images/Products/products-slide.jpg",
+        "img2": "../src/components/Images/Products/products-slide.jpg",
+        "img3": "../src/components/Images/Products/products-slide.jpg",
+        "description": "6 [MNH73LL/A] silver M2 Pro 10C CPU 16C GPU/16GB/512GB SSD",
+        "characteristic" : "6 Планшеты С другой стороны постоянное информационно-пропагандистское обеспечение нашей деятельности представляет собой интересный эксперимент проверки систем массового участия. Разнообразный и богатый опыт рамки и место обучения кадров способствует подготовке и реализации направлений прогрессивного развития. Повседневная практика показывает, что постоянное информационно-пропагандистское",
+        "brand": "Apple",
+        "category": "Планшеты"
+
+    },
+    {
+        "id" : 7,
+        "title" : "Apple Планшеты Mac mini 2023 7",
+        "article": "715654",
+        "price": "8 307",
+        "availability": false,
+        "img1": "../src/components/Images/Products/products-slide.jpg",
+        "img2": "../src/components/Images/Products/products-slide.jpg",
+        "img3": "../src/components/Images/Products/products-slide.jpg",
+        "description": "7 [MNH73LL/A] silver M2 Pro 10C CPU 16C GPU/16GB/512GB SSD",
+        "characteristic" : "7 С другой стороны постоянное информационно-пропагандистское обеспечение нашей деятельности представляет собой интересный эксперимент проверки систем массового участия. Разнообразный и богатый опыт рамки и место обучения кадров способствует подготовке и реализации направлений прогрессивного развития. Повседневная практика показывает, что постоянное информационно-пропагандистское",
+        "brand": "Apple",
+        "category": "Планшеты"
+
+    },
+    {
+        "id" : 8,
+        "title" : "Apple Телефоны Mac mini 2023 8",
+        "article": "815654",
+        "price": "23 308",
+        "availability": false,
+        "img1": "../src/components/Images/Products/products-slide.jpg",
+        "img2": "../src/components/Images/Products/products-slide.jpg",
+        "img3": "../src/components/Images/Products/products-slide.jpg",
+        "description": "8 [MNH73LL/A] silver M2 Pro 10C CPU 16C GPU/16GB/512GB SSD",
+        "characteristic" : "8 С другой стороны постоянное информационно-пропагандистское обеспечение нашей деятельности представляет собой интересный эксперимент проверки систем массового участия. Разнообразный и богатый опыт рамки и место обучения кадров способствует подготовке и реализации направлений прогрессивного развития. Повседневная практика показывает, что постоянное информационно-пропагандистское",
+        "brand": "Apple",
+        "category": "Телефоны"
+
+    },
+    {
+        "id" : 9,
+        "title" : "Apple Телефоны Mac mini 2023 9",
+        "article": "915654",
+        "price": "23 309",
+        "availability": false,
+        "img1": "../src/components/Images/Products/products-slide.jpg",
+        "img2": "../src/components/Images/Products/products-slide.jpg",
+        "img3": "../src/components/Images/Products/products-slide.jpg",
+        "description": "9 [MNH73LL/A] silver M2 Pro 10C CPU 16C GPU/16GB/512GB SSD",
+        "characteristic" : "9 С другой стороны постоянное информационно-пропагандистское обеспечение нашей деятельности представляет собой интересный эксперимент проверки систем массового участия. Разнообразный и богатый опыт рамки и место обучения кадров способствует подготовке и реализации направлений прогрессивного развития. Повседневная практика показывает, что постоянное информационно-пропагандистское",
+        "brand": "Apple",
+        "category": "Телефоны"
+
+    },
+    {
+        "id" : 10,
+        "title" : "Apple Телефоны Mac mini 2023 10",
+        "article": "1015654",
+        "price": "23 310",
+        "availability": false,
+        "img1": "../src/components/Images/Products/products-slide.jpg",
+        "img2": "../src/components/Images/Products/products-slide.jpg",
+        "img3": "../src/components/Images/Products/products-slide.jpg",
+        "description": "10 [MNH73LL/A] silver M2 Pro 10C CPU 16C GPU/16GB/512GB SSD",
+        "characteristic" : "10 С другой стороны постоянное информационно-пропагандистское обеспечение нашей деятельности представляет собой интересный эксперимент проверки систем массового участия. Разнообразный и богатый опыт рамки и место обучения кадров способствует подготовке и реализации направлений прогрессивного развития. Повседневная практика показывает, что постоянное информационно-пропагандистское",
+        "brand": "Apple",
+        "category": "Телефоны"
+
+    },
+    {
+        "id" : 11,
+        "title" : "Samsung Телефоны Mac mini 2023 11",
+        "article": "1115654",
+        "price": "23 311",
+        "availability": false,
+        "img1": "../src/components/Images/Products/products-slide.jpg",
+        "img2": "../src/components/Images/Products/products-slide.jpg",
+        "img3": "../src/components/Images/Products/products-slide.jpg",
+        "description": "11 [MNH73LL/A] silver M2 Pro 10C CPU 16C GPU/16GB/512GB SSD",
+        "characteristic" : "11 С другой стороны постоянное информационно-пропагандистское обеспечение нашей деятельности представляет собой интересный эксперимент проверки систем массового участия. Разнообразный и богатый опыт рамки и место обучения кадров способствует подготовке и реализации направлений прогрессивного развития. Повседневная практика показывает, что постоянное информационно-пропагандистское",
+        "brand": "Samsung",
+        "category": "Телефоны"
+
+    },
+    {
+        "id" : 12,
+        "title" : "Samsung Телефоны Mac mini 2023 12",
+        "article": "1215654",
+        "price": "23 312",
+        "availability": false,
+        "img1": "../src/components/Images/Products/products-slide.jpg",
+        "img2": "../src/components/Images/Products/products-slide.jpg",
+        "img3": "../src/components/Images/Products/products-slide.jpg",
+        "description": "12 [MNH73LL/A] silver M2 Pro 10C CPU 16C GPU/16GB/512GB SSD",
+        "characteristic" : "12 С другой стороны постоянное информационно-пропагандистское обеспечение нашей деятельности представляет собой интересный эксперимент проверки систем массового участия. Разнообразный и богатый опыт рамки и место обучения кадров способствует подготовке и реализации направлений прогрессивного развития. Повседневная практика показывает, что постоянное информационно-пропагандистское",
+        "brand": "Samsung",
+        "category": "Телефоны"
+
+    },
+    {
+        "id" : 13,
+        "title" : "Samsung Телефоны Mac mini 2023 13",
+        "article": "1315654",
+        "price": "23 313",
+        "availability": false,
+        "img1": "../src/components/Images/Products/products-slide.jpg",
+        "img2": "../src/components/Images/Products/products-slide.jpg",
+        "img3": "../src/components/Images/Products/products-slide.jpg",
+        "description": "13 [MNH73LL/A] silver M2 Pro 10C CPU 16C GPU/16GB/512GB SSD",
+        "characteristic" : "13 С другой стороны постоянное информационно-пропагандистское обеспечение нашей деятельности представляет собой интересный эксперимент проверки систем массового участия. Разнообразный и богатый опыт рамки и место обучения кадров способствует подготовке и реализации направлений прогрессивного развития. Повседневная практика показывает, что постоянное информационно-пропагандистское",
+        "brand": "Samsung",
+        "category": "Телефоны"
+    },
+    {
+        "id" : 14,
+        "title" : "Samsung Телефоны Mac mini 2023 14",
+        "article": "1415654",
+        "price": "23 314",
+        "availability": false,
+        "img1": "../src/components/Images/Products/products-slide.jpg",
+        "img2": "../src/components/Images/Products/products-slide.jpg",
+        "img3": "../src/components/Images/Products/products-slide.jpg",
+        "description": "14 [MNH73LL/A] silver M2 Pro 10C CPU 16C GPU/16GB/512GB SSD",
+        "characteristic" : "14 С другой стороны постоянное информационно-пропагандистское обеспечение нашей деятельности представляет собой интересный эксперимент проверки систем массового участия. Разнообразный и богатый опыт рамки и место обучения кадров способствует подготовке и реализации направлений прогрессивного развития. Повседневная практика показывает, что постоянное информационно-пропагандистское",
+        "brand": "Samsung",
+        "category": "Телефоны"
+    }
+    ,
+    {
+        "id" : 15,
+        "title" : "Samsung Компьютеры Mac mini 2023 15",
+        "article": "1515654",
+        "price": "23 315",
+        "availability": false,
+        "img1": "../src/components/Images/Products/products-slide.jpg",
+        "img2": "../src/components/Images/Products/products-slide.jpg",
+        "img3": "../src/components/Images/Products/products-slide.jpg",
+        "description": "15 [MNH73LL/A] silver M2 Pro 10C CPU 16C GPU/16GB/512GB SSD",
+        "characteristic" : "15 С другой стороны постоянное информационно-пропагандистское обеспечение нашей деятельности представляет собой интересный эксперимент проверки систем массового участия. Разнообразный и богатый опыт рамки и место обучения кадров способствует подготовке и реализации направлений прогрессивного развития. Повседневная практика показывает, что постоянное информационно-пропагандистское",
+        "brand": "Samsung",
+        "category": "Компьютеры"
+    }
+    ,
+    {
+        "id" : 16,
+        "title" : "Samsung Компьютеры Mac mini 2023 16",
+        "article": "1615654",
+        "price": "23 316",
+        "availability": false,
+        "img1": "../src/components/Images/Products/products-slide.jpg",
+        "img2": "../src/components/Images/Products/products-slide.jpg",
+        "img3": "../src/components/Images/Products/products-slide.jpg",
+        "description": "16 [MNH73LL/A] silver M2 Pro 10C CPU 16C GPU/16GB/512GB SSD",
+        "characteristic" : "16 С другой стороны постоянное информационно-пропагандистское обеспечение нашей деятельности представляет собой интересный эксперимент проверки систем массового участия. Разнообразный и богатый опыт рамки и место обучения кадров способствует подготовке и реализации направлений прогрессивного развития. Повседневная практика показывает, что постоянное информационно-пропагандистское",
+        "brand": "Samsung",
+        "category": "Компьютеры"
+    }
+    ,
+    {
+        "id" : 17,
+        "title" : "Sigma Компьютеры Mac mini 2023 17",
+        "article": "1715654",
+        "price": "23 317",
+        "availability": false,
+        "img1": "../src/components/Images/Products/products-slide.jpg",
+        "img2": "../src/components/Images/Products/products-slide.jpg",
+        "img3": "../src/components/Images/Products/products-slide.jpg",
+        "description": "17 [MNH73LL/A] silver M2 Pro 10C CPU 16C GPU/16GB/512GB SSD",
+        "characteristic" : "17 С другой стороны постоянное информационно-пропагандистское обеспечение нашей деятельности представляет собой интересный эксперимент проверки систем массового участия. Разнообразный и богатый опыт рамки и место обучения кадров способствует подготовке и реализации направлений прогрессивного развития. Повседневная практика показывает, что постоянное информационно-пропагандистское",
+        "brand": "Sigma",
+        "category": "Компьютеры"
+    }
+    ,
+    {
+        "id" : 18,
+        "title" : "Apple Компьютеры Mac mini 2023 18",
+        "article": "1815654",
+        "price": "23 318",
+        "availability": false,
+        "img1": "../src/components/Images/Products/products-slide.jpg",
+        "img2": "../src/components/Images/Products/products-slide.jpg",
+        "img3": "../src/components/Images/Products/products-slide.jpg",
+        "description": "18 [MNH73LL/A] silver M2 Pro 10C CPU 16C GPU/16GB/512GB SSD",
+        "characteristic" : "18 С другой стороны постоянное информационно-пропагандистское обеспечение нашей деятельности представляет собой интересный эксперимент проверки систем массового участия. Разнообразный и богатый опыт рамки и место обучения кадров способствует подготовке и реализации направлений прогрессивного развития. Повседневная практика показывает, что постоянное информационно-пропагандистское",
+        "brand": "Apple",
+        "category": "Компьютеры"
+    }
+    ,
+    {
+        "id" : 19,
+        "title" : "Digma Компьютеры Mac mini 2023 19",
+        "article": "1915654",
+        "price": "23 319",
+        "availability": false,
+        "img1": "../src/components/Images/Products/products-slide.jpg",
+        "img2": "../src/components/Images/Products/products-slide.jpg",
+        "img3": "../src/components/Images/Products/products-slide.jpg",
+        "description": "19 [MNH73LL/A] silver M2 Pro 10C CPU 16C GPU/16GB/512GB SSD",
+        "characteristic" : "19 С другой стороны постоянное информационно-пропагандистское обеспечение нашей деятельности представляет собой интересный эксперимент проверки систем массового участия. Разнообразный и богатый опыт рамки и место обучения кадров способствует подготовке и реализации направлений прогрессивного развития. Повседневная практика показывает, что постоянное информационно-пропагандистское",
+        "brand": "Digma",
+        "category": "Компьютеры"
+    }
+]

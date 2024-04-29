@@ -1,0 +1,233 @@
+.catalog{
+  background-color: #292929;
+  position: fixed;
+  top: 126px;
+  left: 0;
+  width: 100vw;
+  height: calc(100vh - 126px);
+  z-index: 999;
+  overflow-y: scroll;
+}
+.catalog__container{
+  margin-bottom: 32px !important;
+}
+.catalog-categories, .subcategories{
+  background-color: #fff;
+}
+.catalog-categories{
+  max-width: 308px;
+  display: grid;
+  gap: 15px;
+  padding: 32px 20px 32px 10px;
+}
+.subcategories__container{
+  width: 100%;
+}
+.subcategories{
+  width: 100%;
+  height: 90%;
+  border-radius: 30px;
+  padding: 24px;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: 1fr 5fr;
+  gap: 15px;
+}
+.subcategory span{
+  font-size: 15px;
+  font-weight: 700;
+  cursor: pointer;
+}
+.subcategory span:hover{
+  color: #CE3E28;
+}
+.popup-catalog{
+  display: flex;
+  gap: 9px;
+}
+.category{
+  cursor: pointer;
+}
+.category span{
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.category span::before{
+  content: url(../Images/CatalogIcons/acb.svg);
+}
+.category span:hover{
+  color: #CE3E28;
+}
+.brands{
+  display: flex;
+  flex-direction: column;
+  margin-top: 15px;
+  gap: 10px;
+}
+.brands span{
+  font-weight: 400;
+  font-size: 12px;
+  color: #757575;
+  cursor: pointer;
+}
+.brands span:hover{
+  color: #CE3E28;
+}
+.subcategory-title{
+  color: #fff;
+  font-size: 24px;
+  font-weight: 400;
+  margin-bottom: 17px;
+  margin-top: 32px;
+  margin-left: 24px;
+}
+.catalog-header-mobile{
+  display: none;
+}
+.sub-title{
+  font-size: 15px;
+  font-weight: 600;
+}
+@media (max-width: 1100px) {
+  .subcategories{
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+@media (max-width: 946px) {
+  .popup-catalog{
+    flex-direction: column;
+  }
+  .catalog{
+    top: 77px;
+    height: calc(100vh - 77px);
+    background-color: #fff;
+  }
+  .catalog-categories{
+    width: 100%;
+    max-width: 100%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 15px;
+  }
+  .category{
+    background-color: #D7BEA1;
+    color: #fff;
+    padding: 10px;
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+    min-height: 60px;
+  }
+  .catalog-header-mobile{
+    grid-column: 1/-1;
+    text-align: center;
+    margin-bottom: 20px;
+    display: flex;
+    position: relative;
+    z-index: 999;
+  }
+  .catalog-mobile-title{
+    font-size: 24px;
+    text-align: center;
+    width: 100%;
+  }
+  .category span{
+    font-size: 14px;
+  }
+  .catalog-close{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    color: #D9D9D9;
+    font-size: 14px;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  .subcategory-title{
+    color: #292929;
+  }
+  .subcategories__container{
+    opacity: 0;
+    visibility: hidden;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #fff;
+    padding-top: 55px;
+  }
+  .subcategories__container.active{
+    opacity: 1;
+    visibility: visible;
+  }
+  .catalog footer{
+    display: none;
+  }
+  .subcategories{
+    display: flex;
+    flex-direction: column;
+    min-height: calc(100vh - 200px);
+  }
+  .sub-title{
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    background-color: #D7BEA1;
+    color: #fff;
+    height: 40px;
+    line-height: 40px;
+    border-radius: 15px;
+  }
+  .brands span{
+    color: #292929;
+    font-size: 16px;
+  }
+  .brands{
+    display: none;
+  }
+  .brands.active{
+    display: flex;
+  }
+}
+@media (max-width: 750px){
+  .catalog-categories{
+    gap: 10px;
+    grid-template-columns: 1fr;
+  }
+  .category {
+    background: none;
+    color: #292929;
+    min-height: 20px;
+  }
+  .subcategories{
+    margin-top: 32px;
+    height: 100vh;
+    overflow-y: scroll;
+  }
+  .catalog-header-mobile{
+    background-color: #fff;
+    align-items: center;
+    min-height: 40px;
+    display: flex;
+    align-items: center;
+  }
+  .catalog-close{
+    top: 50%;
+    transform: translate(0, -50%);
+  }
+  .catalog {
+    top: 67px;
+    height: calc(100vh - 67px);
+  }
+  .catalog.lock{
+    overflow: hidden;
+  }
+  .subcategory-title{
+    display: none;
+  }
+  .brands.active{
+    display: flex !important;
+  }
+}

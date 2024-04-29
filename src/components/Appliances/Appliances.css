@@ -1,0 +1,10 @@
+.appliances__slider{
+    width: 100%;
+    background-color: #2C1D27;
+    height: 295px;
+}
+@media (max-width: 758px) {
+    .appliances {
+        display: none;
+    }
+}

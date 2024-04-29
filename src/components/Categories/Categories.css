@@ -1,0 +1,22 @@
+.categories__item{
+    width: 400px;
+    height: 269px;
+    background-color: #292929;
+    border-radius: 20px;
+}
+.categories__slider-container{
+    display: flex;
+    justify-content: space-between;
+    gap: 24px;
+    padding-bottom: 32px;
+}
+@media (max-width: 1100px) {
+    .categories__item{
+        height: 200px;
+    }
+}
+@media (max-width: 758px) {
+    .categories{
+        display: none;
+    }
+}

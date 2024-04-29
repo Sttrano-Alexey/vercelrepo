@@ -1,0 +1,25 @@
+.products__header{
+    margin-bottom: 44px;
+    display: grid;
+    grid-template-columns: 1fr 1.5fr 1fr;
+    align-items: center;
+}
+.products__title{
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+.products__title h3{
+    font-size: 20px;
+}
+.products__title span{
+    font-size: 20px;
+    font-weight: 400;
+    color: #0000002c;
+}
+.view__buttons{
+    display: flex;
+    align-items: center;
+    gap: 23px;
+    justify-self: end;
+}
