@@ -18,7 +18,7 @@ const ProductList = () => {
   const [selectedCategories, setSelectedCategories] = useState([]); // выбранные категории
 
   useEffect(() => {
-    fetch("https://raw.githubusercontent.com/Sttrano-Alexey/bd/main/products.json")
+    fetch("https://raw.githubusercontent.com/Sttrano-Alexey/vercelrepo/main/src/DATA/products.json")
       .then((res) => res.json())
       .then((products) => {
         // Получаем уникальные категории и бренды
